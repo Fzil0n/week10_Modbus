@@ -1,0 +1,11 @@
+ModbusRTU.c:24:6:modbus_1t5_Timeout	1
+ModbusRTU.c:30:6:modbus_3t5_Timeout	1
+ModbusRTU.c:35:6:modbus_UART_Recived	2
+ModbusRTU.c:51:6:Modbus_init	2
+ModbusRTU.c:118:16:CRC16	2
+ModbusRTU.c:136:6:Modbus_Protocal_Worker	17
+ModbusRTU.c:247:6:modbusWrite1Register	2
+ModbusRTU.c:276:6:modbusRead1Register	6
+ModbusRTU.c:312:6:ModbusErrorReply	1
+ModbusRTU.c:319:6:Modbus_frame_response	3
+ModbusRTU.c:336:6:Modbus_Emission	3
